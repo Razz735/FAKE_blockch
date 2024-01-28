@@ -1,3 +1,0 @@
-mkdir blockchain-fake-api
-cd blockchain-fake-api
-git init
